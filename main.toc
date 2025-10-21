@@ -1,0 +1,195 @@
+\contentsline {section}{\numberline {1}基础算法}{8}{}%
+\contentsline {subsection}{\numberline {1.1}二分}{8}{}%
+\contentsline {subsection}{\numberline {1.2}三分}{8}{}%
+\contentsline {subsection}{\numberline {1.3}前缀和与差分}{9}{}%
+\contentsline {subsubsection}{\numberline {1.3.1}二维前缀和}{9}{}%
+\contentsline {subsubsection}{\numberline {1.3.2}二维差分}{10}{}%
+\contentsline {subsubsection}{\numberline {1.3.3}三维前缀和}{10}{}%
+\contentsline {subsubsection}{\numberline {1.3.4}三维差分}{10}{}%
+\contentsline {subsection}{\numberline {1.4}离散化}{10}{}%
+\contentsline {subsection}{\numberline {1.5}位运算及相关库函数}{11}{}%
+\contentsline {subsection}{\numberline {1.6}C++ 标准库}{11}{}%
+\contentsline {subsubsection}{\numberline {1.6.1}查找后继}{11}{}%
+\contentsline {subsubsection}{\numberline {1.6.2}判断非递减}{12}{}%
+\contentsline {subsubsection}{\numberline {1.6.3}数组打乱}{12}{}%
+\contentsline {subsubsection}{\numberline {1.6.4}批量递增赋值函数}{12}{}%
+\contentsline {subsubsection}{\numberline {1.6.5}全排列函数}{12}{}%
+\contentsline {subsubsection}{\numberline {1.6.6}数组元素累加}{13}{}%
+\contentsline {subsubsection}{\numberline {1.6.7}迭代器相关}{13}{}%
+\contentsline {subsubsection}{\numberline {1.6.8}部分数学库函数}{13}{}%
+\contentsline {subsubsection}{\numberline {1.6.9}C++ Set 库}{13}{}%
+\contentsline {subsubsection}{\numberline {1.6.10}C++ pb\_ds 库}{14}{}%
+\contentsline {subsubsection}{\numberline {1.6.11}C++ Bitset}{14}{}%
+\contentsline {subsection}{\numberline {1.7}高精度}{18}{}%
+\contentsline {section}{\numberline {2}字符串算法}{20}{}%
+\contentsline {subsection}{\numberline {2.1}KMP}{20}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}KMP}{20}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}EXKMP}{20}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}KMP 自动机}{21}{}%
+\contentsline {subsection}{\numberline {2.2}字符串哈希}{22}{}%
+\contentsline {subsection}{\numberline {2.3}Manacher}{23}{}%
+\contentsline {subsection}{\numberline {2.4}Trie}{24}{}%
+\contentsline {subsection}{\numberline {2.5}AC 自动机}{26}{}%
+\contentsline {subsection}{\numberline {2.6}后缀数组}{29}{}%
+\contentsline {subsection}{\numberline {2.7}后缀自动机}{30}{}%
+\contentsline {subsection}{\numberline {2.8}回文自动机}{32}{}%
+\contentsline {subsection}{\numberline {2.9}Other}{33}{}%
+\contentsline {subsubsection}{\numberline {2.9.1}最长公共子序列}{33}{}%
+\contentsline {section}{\numberline {3}常用数据结构}{35}{}%
+\contentsline {subsection}{\numberline {3.1}并查集}{35}{}%
+\contentsline {subsection}{\numberline {3.2}ST 表}{35}{}%
+\contentsline {subsection}{\numberline {3.3}树状数组}{36}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}1D 树状数组}{36}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}2D 树状数组}{37}{}%
+\contentsline {subsection}{\numberline {3.4}线段树}{38}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}基础线段树}{38}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}动态开点线段树}{39}{}%
+\contentsline {subsubsection}{\numberline {3.4.3}权值线段树}{40}{}%
+\contentsline {subsubsection}{\numberline {3.4.4}基础主席树}{41}{}%
+\contentsline {subsubsection}{\numberline {3.4.5}线段树合并}{43}{}%
+\contentsline {subsubsection}{\numberline {3.4.6}吉司机线段树}{45}{}%
+\contentsline {subsubsection}{\numberline {3.4.7}单点修改 + 区间最值}{54}{}%
+\contentsline {subsubsection}{\numberline {3.4.8}区间加法 + 区间乘法}{55}{}%
+\contentsline {subsubsection}{\numberline {3.4.9}区间取模}{57}{}%
+\contentsline {subsubsection}{\numberline {3.4.10}区间异或修改 + 区间求和}{58}{}%
+\contentsline {subsubsection}{\numberline {3.4.11}拆位运算线段树}{59}{}%
+\contentsline {subsubsection}{\numberline {3.4.12}树上线段树}{62}{}%
+\contentsline {subsection}{\numberline {3.5}莫队}{65}{}%
+\contentsline {subsubsection}{\numberline {3.5.1}普通莫队}{65}{}%
+\contentsline {subsubsection}{\numberline {3.5.2}带修莫队}{66}{}%
+\contentsline {subsubsection}{\numberline {3.5.3}树上莫队}{68}{}%
+\contentsline {subsection}{\numberline {3.6}珂朵莉树}{71}{}%
+\contentsline {subsection}{\numberline {3.7}CDQ 分治}{73}{}%
+\contentsline {subsubsection}{\numberline {3.7.1}陌上花开}{73}{}%
+\contentsline {subsubsection}{\numberline {3.7.2}拦截导弹}{76}{}%
+\contentsline {section}{\numberline {4}基础数学}{79}{}%
+\contentsline {subsection}{\numberline {4.1}常见数论范围}{79}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}调和级数}{79}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}素数密度与分布}{79}{}%
+\contentsline {subsubsection}{\numberline {4.1.3}100 以内的质数}{79}{}%
+\contentsline {subsubsection}{\numberline {4.1.4}因数最多数字与其因数数量}{79}{}%
+\contentsline {subsection}{\numberline {4.2}常见数学理论}{79}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}裴蜀定理}{79}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}费马小定理}{80}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}欧拉定理}{80}{}%
+\contentsline {subsubsection}{\numberline {4.2.4}威尔逊定理}{80}{}%
+\contentsline {subsubsection}{\numberline {4.2.5}鸽巢定理}{80}{}%
+\contentsline {subsubsection}{\numberline {4.2.6}容斥定理}{80}{}%
+\contentsline {subsubsection}{\numberline {4.2.7}赛瓦维斯特定理}{80}{}%
+\contentsline {subsubsection}{\numberline {4.2.8}Dilworth 定理}{80}{}%
+\contentsline {subsubsection}{\numberline {4.2.9}卢卡斯定理}{80}{}%
+\contentsline {subsubsection}{\numberline {4.2.10}盒球模型}{81}{}%
+\contentsline {subsubsection}{\numberline {4.2.11}斐波那契数列}{82}{}%
+\contentsline {subsubsection}{\numberline {4.2.12}常见组合问题结论}{83}{}%
+\contentsline {subsubsection}{\numberline {4.2.13}常见恒等式}{83}{}%
+\contentsline {subsection}{\numberline {4.3}线性代数}{83}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}行列式基础}{83}{}%
+\contentsline {subsubsection}{\numberline {4.3.2}行列式性质}{84}{}%
+\contentsline {subsubsection}{\numberline {4.3.3}行列式四则运算}{85}{}%
+\contentsline {subsubsection}{\numberline {4.3.4}消元求行列式}{85}{}%
+\contentsline {subsubsection}{\numberline {4.3.5}行列式的秩}{85}{}%
+\contentsline {subsubsection}{\numberline {4.3.6}积和式}{85}{}%
+\contentsline {subsection}{\numberline {4.4}功能性函数}{86}{}%
+\contentsline {subsubsection}{\numberline {4.4.1}快速幂}{86}{}%
+\contentsline {subsubsection}{\numberline {4.4.2}简易自取模}{86}{}%
+\contentsline {subsection}{\numberline {4.5}常用数论函数性质}{86}{}%
+\contentsline {subsubsection}{\numberline {4.5.1}欧拉函数}{86}{}%
+\contentsline {subsubsection}{\numberline {4.5.2}莫比乌斯函数}{87}{}%
+\contentsline {subsection}{\numberline {4.6}常用数论函数筛}{87}{}%
+\contentsline {subsubsection}{\numberline {4.6.1}素数筛}{87}{}%
+\contentsline {subsubsection}{\numberline {4.6.2}欧拉函数筛}{87}{}%
+\contentsline {subsubsection}{\numberline {4.6.3}约数筛}{88}{}%
+\contentsline {subsubsection}{\numberline {4.6.4}莫比乌斯函数筛}{89}{}%
+\contentsline {subsection}{\numberline {4.7}求质因数/因数/欧拉函数/最小原根/全部原根}{89}{}%
+\contentsline {subsection}{\numberline {4.8}最大公约数}{93}{}%
+\contentsline {subsubsection}{\numberline {4.8.1}欧几里得算法}{93}{}%
+\contentsline {subsubsection}{\numberline {4.8.2}cpp 特有的欧几里得算法}{93}{}%
+\contentsline {subsubsection}{\numberline {4.8.3}扩展欧几里得算法}{93}{}%
+\contentsline {subsection}{\numberline {4.9}离散对数 bsgs 和 exbsgs}{94}{}%
+\contentsline {subsection}{\numberline {4.10}PollardPho 和 MillerRabin}{96}{}%
+\contentsline {subsection}{\numberline {4.11}整数分块}{98}{}%
+\contentsline {subsection}{\numberline {4.12}组合数}{98}{}%
+\contentsline {subsection}{\numberline {4.13}斯特林数}{99}{}%
+\contentsline {subsubsection}{\numberline {4.13.1}圆排列}{99}{}%
+\contentsline {subsubsection}{\numberline {4.13.2}第一类斯特林数}{99}{}%
+\contentsline {subsubsection}{\numberline {4.13.3}第二类斯特林数}{100}{}%
+\contentsline {subsection}{\numberline {4.14}卡特兰数}{101}{}%
+\contentsline {subsection}{\numberline {4.15}五边形数}{102}{}%
+\contentsline {subsection}{\numberline {4.16}错位排列}{104}{}%
+\contentsline {subsection}{\numberline {4.17}线性基}{104}{}%
+\contentsline {subsection}{\numberline {4.18}高斯消元}{107}{}%
+\contentsline {subsubsection}{\numberline {4.18.1}解一般方程组}{107}{}%
+\contentsline {subsubsection}{\numberline {4.18.2}解异或方程组}{109}{}%
+\contentsline {subsection}{\numberline {4.19}矩阵四则运算}{110}{}%
+\contentsline {subsection}{\numberline {4.20}矩阵快速幂}{112}{}%
+\contentsline {subsection}{\numberline {4.21}生成函数}{113}{}%
+\contentsline {subsubsection}{\numberline {4.21.1}普通生成函数}{113}{}%
+\contentsline {subsubsection}{\numberline {4.21.2}指数生成函数}{113}{}%
+\contentsline {subsubsection}{\numberline {4.21.3}生成函数的应用}{114}{}%
+\contentsline {subsubsection}{\numberline {4.21.4}补充证明}{114}{}%
+\contentsline {subsection}{\numberline {4.22}阶数}{115}{}%
+\contentsline {subsection}{\numberline {4.23}原根}{116}{}%
+\contentsline {subsection}{\numberline {4.24}FFT}{117}{}%
+\contentsline {subsection}{\numberline {4.25}NTT}{118}{}%
+\contentsline {section}{\numberline {5}计算几何}{121}{}%
+\contentsline {subsection}{\numberline {5.1}结论}{121}{}%
+\contentsline {subsection}{\numberline {5.2}模版细节}{122}{}%
+\contentsline {subsection}{\numberline {5.3}模版}{125}{}%
+\contentsline {section}{\numberline {6}基础图论}{132}{}%
+\contentsline {subsection}{\numberline {6.1}几种经典距离}{132}{}%
+\contentsline {subsection}{\numberline {6.2}拓扑排序}{132}{}%
+\contentsline {subsection}{\numberline {6.3}Dijkstra}{132}{}%
+\contentsline {subsection}{\numberline {6.4}Bellman\_Ford}{133}{}%
+\contentsline {subsection}{\numberline {6.5}SPFA}{134}{}%
+\contentsline {subsection}{\numberline {6.6}Floyd}{134}{}%
+\contentsline {subsection}{\numberline {6.7}Johnson}{135}{}%
+\contentsline {subsection}{\numberline {6.8}Prim}{137}{}%
+\contentsline {subsection}{\numberline {6.9}Kruskal}{138}{}%
+\contentsline {subsection}{\numberline {6.10}差分约束}{139}{}%
+\contentsline {subsection}{\numberline {6.11}优化建图}{141}{}%
+\contentsline {subsection}{\numberline {6.12}矩阵树定理}{144}{}%
+\contentsline {section}{\numberline {7}基础树论}{145}{}%
+\contentsline {subsection}{\numberline {7.1}树的直径}{145}{}%
+\contentsline {subsection}{\numberline {7.2}树的重心}{145}{}%
+\contentsline {subsection}{\numberline {7.3}树链剖分}{146}{}%
+\contentsline {subsection}{\numberline {7.4}最近公共祖先}{147}{}%
+\contentsline {subsection}{\numberline {7.5}树上启发式合并}{148}{}%
+\contentsline {subsection}{\numberline {7.6}基环树}{151}{}%
+\contentsline {subsubsection}{\numberline {7.6.1}基环树找环}{151}{}%
+\contentsline {subsubsection}{\numberline {7.6.2}基环树DP}{151}{}%
+\contentsline {subsection}{\numberline {7.7}树上拓扑序计数}{153}{}%
+\contentsline {subsection}{\numberline {7.8}虚树}{153}{}%
+\contentsline {subsection}{\numberline {7.9}prufer 序列}{156}{}%
+\contentsline {section}{\numberline {8}基础动态规划}{159}{}%
+\contentsline {subsection}{\numberline {8.1}01 背包}{159}{}%
+\contentsline {subsection}{\numberline {8.2}完全背包}{159}{}%
+\contentsline {subsection}{\numberline {8.3}多重背包}{159}{}%
+\contentsline {subsection}{\numberline {8.4}分组背包}{160}{}%
+\contentsline {subsection}{\numberline {8.5}二维费用的背包}{160}{}%
+\contentsline {subsection}{\numberline {8.6}树上背包}{160}{}%
+\contentsline {subsection}{\numberline {8.7}单调队列优化 DP}{161}{}%
+\contentsline {subsection}{\numberline {8.8}数位 DP}{162}{}%
+\contentsline {section}{\numberline {9}博弈论}{164}{}%
+\contentsline {subsection}{\numberline {9.1}Bash 博弈}{164}{}%
+\contentsline {subsection}{\numberline {9.2}EX Bash 博弈}{164}{}%
+\contentsline {subsection}{\numberline {9.3}Nim 博弈}{164}{}%
+\contentsline {subsection}{\numberline {9.4}Nim-K 游戏}{165}{}%
+\contentsline {subsection}{\numberline {9.5}Anti-Nim 游戏}{165}{}%
+\contentsline {subsection}{\numberline {9.6}阶梯-Nim}{166}{}%
+\contentsline {subsection}{\numberline {9.7}SG游戏（有向图游戏）}{166}{}%
+\contentsline {subsection}{\numberline {9.8}Anti-SG 游戏}{167}{}%
+\contentsline {subsection}{\numberline {9.9}Multi-SG 游戏}{168}{}%
+\contentsline {subsection}{\numberline {9.10}Every-SG 游戏}{168}{}%
+\contentsline {subsection}{\numberline {9.11}威佐夫博弈}{169}{}%
+\contentsline {subsection}{\numberline {9.12}斐波那契博弈}{170}{}%
+\contentsline {subsection}{\numberline {9.13}树上删边游戏}{170}{}%
+\contentsline {subsection}{\numberline {9.14}无向图删边游戏}{171}{}%
+\contentsline {section}{\numberline {10}杂项算法和一些小工具}{172}{}%
+\contentsline {subsection}{\numberline {10.1}C++ 宏定义}{172}{}%
+\contentsline {subsection}{\numberline {10.2}CPU Checker}{172}{}%
+\contentsline {subsection}{\numberline {10.3}Python 高精度小数}{173}{}%
+\contentsline {subsection}{\numberline {10.4}C++ 精度相关}{174}{}%
+\contentsline {subsection}{\numberline {10.5}GNC C++ 版本测试}{174}{}%
+\contentsline {subsection}{\numberline {10.6}int128 输出流}{175}{}%
+\contentsline {subsection}{\numberline {10.7}快读}{175}{}%
+\contentsline {subsection}{\numberline {10.8}linux 对拍}{175}{}%
