@@ -193,3 +193,6 @@
 \contentsline {subsection}{\numberline {10.6}int128 输出流}{175}{}%
 \contentsline {subsection}{\numberline {10.7}快读}{175}{}%
 \contentsline {subsection}{\numberline {10.8}linux 对拍}{175}{}%
+\contentsline {section}{\numberline {11}Special Part}{177}{}%
+\contentsline {subsection}{\numberline {11.1}结论}{177}{}%
+\contentsline {subsection}{\numberline {11.2}Special 值}{177}{}%
